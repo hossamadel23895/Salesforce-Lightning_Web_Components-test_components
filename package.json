@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/hossamadel23895.lwc-la5dky5g-fork-la5hs0u6",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve to08L3DszqFYEoqIqNnx --open"
+  }
+}
